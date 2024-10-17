@@ -116,3 +116,39 @@
 // console.log(arr.filter(arr =>arr.length >5));
 
 // 17
+// let son = [5, 2, 8, 1, 9]
+// console.log(son.sort((a, b)=> a - b));
+
+// 18
+// let son = [5, 2, 8, 1, 9]
+// console.log(son.sort((a, b) => b - a));
+
+// 19
+// let arr = [1, 2, 3, 4, 5]
+// let sonlarniKopaytirish = [];
+// for (let i = 0; i < arr.length; i++) {
+//     sonlarniKopaytirish[i] = arr[i] * 10;
+// }
+// console.log(sonlarniKopaytirish);
+
+
+// 20 (shartdagidek qila olmadim)
+// let arr = [1, -2, 3, -4, 5];
+// let result = arr.map(function(num){
+//     return num > 0;
+// })
+// console.log(result);
+
+// 21 ()
+
+// 22
+// let arr = ['apple', 'banana', 'cherry', 'deate'];
+// arr[1] = arr[3]
+// console.log(arr);
+
+
+// 23
+// let arr = ['apple', 'banana', 'cherry', 'deate'];
+// arr.unshift('gilos')
+// arr.push('shaftoli')
+// console.log(arr);
